@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
     <a>
         <img src="banner.png" alt="edisonlee55 Banner">
     </a>
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm <a>Roberto Zhong</a>!</h1>
 
