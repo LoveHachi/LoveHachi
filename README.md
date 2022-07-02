@@ -29,7 +29,7 @@
 - ⚙️ I use daily: `.py`, `.java`, `.html`, `.css`, `.js`
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveHachi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveHachi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
