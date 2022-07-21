@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning  **Docker, AWS, Spring**
 - ⚙️ I use daily: `.py`, `.java`, `.html`, `.css`, `.js`
-
+- 📫 How to reach me: [email](mailto:robertozw88@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveHachi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
